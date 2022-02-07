@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Denis
+# Hi there 👋 I am Denis Bespalov
 ## I'm second year university Student from Saint-Petersburg, Russia
 
 <!-- Badges -->
