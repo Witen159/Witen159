@@ -2,7 +2,6 @@
 ## I'm second year university Student from Saint-Petersburg, Russia
 
 <!-- Badges -->
-![Profile views](https://komarev.com/ghpvc/?username=Witen159&color=blue&style=flat-square")
 ![Stars](https://img.shields.io/github/stars/Witen159)
 ![Followers](https://img.shields.io/github/followers/Witen159)
 
