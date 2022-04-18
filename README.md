@@ -5,7 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/Witen159)
 ![Followers](https://img.shields.io/github/followers/Witen159)
 
-:seedling: I'm currently learning C#, C++
+:seedling: I'm currently learning ASP.Net, java
 
 📧: Ask me about everything: https://t.me/Witen
 
