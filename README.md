@@ -1,5 +1,5 @@
 # Hi there 👋 I am Denis Bespalov
-## I'm second year university Student from Saint-Petersburg, Russia
+## I'm .NET developer from Saint-Petersburg, Russia
 
 <!-- Badges -->
 ![Stars](https://img.shields.io/github/stars/Witen159)
