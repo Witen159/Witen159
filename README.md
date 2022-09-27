@@ -1,11 +1,10 @@
 # Hi there 👋 I am Denis Bespalov
-## I'm .NET developer from Saint-Petersburg, Russia
 
 <!-- Badges -->
 ![Stars](https://img.shields.io/github/stars/Witen159)
 ![Followers](https://img.shields.io/github/followers/Witen159)
 
-:seedling: I'm currently learning ASP.Net, java
+:seedling: I'm currently learning ASP.Net MVC, WPF
 
 📧: Ask me about everything: https://t.me/Witen
 
