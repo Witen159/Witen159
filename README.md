@@ -8,6 +8,8 @@
 
 📧: Ask me about everything: https://t.me/Witen
 
+My CV: https://github.com/Witen159/CV
+
 ### Languages, Tools and Technologies:
 
 <!-- TEMPLATE:
