@@ -4,11 +4,9 @@
 ![Stars](https://img.shields.io/github/stars/Witen159)
 ![Followers](https://img.shields.io/github/followers/Witen159)
 
-:seedling: I'm currently learning ASP.Net MVC, WPF
-
 📧: Ask me about everything: https://t.me/Witen
 
-My CV: https://github.com/Witen159/CV
+My CV: https://github.com/Witen159/CV/blob/main/CV_Bespalov_Denis.pdf
 
 ### Languages, Tools and Technologies:
 
